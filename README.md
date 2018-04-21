@@ -6,21 +6,21 @@ For example
 
 2. https://cdn.jsdelivr.net/npm/davecdn/concord/arrowpad.js
 
-3. concord.css
+3. https://cdn.jsdelivr.net/npm/davecdn/concord/concord.css
 
-4. concordKeyboard.js
+4. https://cdn.jsdelivr.net/npm/davecdn/concord/concordKeyboard.js
 
-5. outliner.js
+5. https://cdn.jsdelivr.net/npm/davecdn/concord/outliner.js
 
-6. twoutliner.js
+6. https://cdn.jsdelivr.net/npm/davecdn/concord/twoutliner.js
 
-7. xml.js
+7. https://cdn.jsdelivr.net/npm/davecdn/concord/xml.js
 
-8. tableeditor.js
+8. https://cdn.jsdelivr.net/npm/davecdn/concord/tableeditor.js
 
-9. tableeditor.css
+9. https://cdn.jsdelivr.net/npm/davecdn/concord/tableeditor.css
 
-10. buildrss.js
+10. https://cdn.jsdelivr.net/npm/davecdn/concord/buildrss.js
 
 More info as it is available. 
 
