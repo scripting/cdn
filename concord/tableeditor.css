@@ -1,0 +1,44 @@
+.divAttsDialog {
+	font-family: Ubuntu;
+	}
+.divAttsDialog .modal {
+	left: 40%;
+	width: 740px;
+	}
+.divAttsDialog .btn {
+	width: 80px;
+	margin-left: 5px;
+	}
+.tableAttributeEditor {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	}
+.tableAttributeEditor td {
+	font-size: 14px;
+	border: none;
+	padding: 0;
+	}
+.tableAttributeEditor thead td {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 3px;
+	}
+.tableAttributeEditor input {
+	width: 300px;
+	font-size: 16px;
+	height: 32px;
+	margin: 5px;
+	padding: 0;
+	
+	padding-left: 2px;
+	padding-right: 2px;
+	}
+.divAttsDialog .modal-body {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+.divAttsDialog #idAddButton {
+	width: 1.5em;
+	}
